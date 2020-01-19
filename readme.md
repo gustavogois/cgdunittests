@@ -20,3 +20,4 @@
 - Perceba a estrutura de um código de testes: AAA - arrange, act e assert.
 - Analise a cobertura dos testes. Crie a operação de subtração na classe, sem teste associado, e verifique a mudança 
 na cobertura.
+- Maven e surefire (mvn surefire-report:report )
