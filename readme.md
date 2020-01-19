@@ -16,4 +16,5 @@
 - Escreva o teste. Ele falhará.
 - Resolva os problemas de compilação. Execute o teste. Ele ainda falhará. 
 - Implemente corretamente a soma, com o mínimo esforço. Execute o teste, desta vez passará.
+- Faça alterações na implementação da operação de soma e perceba o teste a falhar.
 
