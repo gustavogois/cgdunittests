@@ -18,4 +18,5 @@
 - Implemente corretamente a soma, com o mínimo esforço. Execute o teste, desta vez passará.
 - Faça alterações na implementação da operação de soma e perceba o teste a falhar.
 - Perceba a estrutura de um código de testes: AAA - arrange, act e assert.
-
+- Analise a cobertura dos testes. Crie a operação de subtração na classe, sem teste associado, e verifique a mudança 
+na cobertura.
