@@ -14,4 +14,5 @@
 3. [Primeiro exemplo: calculadora](https://github.com/gustavogois/cgdunittests/issues/3)
 
 - Escreva o teste. Ele falhará.
+- Resolva os problemas de compilação. Execute o teste. Ele ainda falhará. 
 
